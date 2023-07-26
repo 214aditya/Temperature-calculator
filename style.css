@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: bisque;
+    
+
+}
+.box{
+    background-color: burlywood;
+    height: 290px;
+    width: 550px;
+    padding: 20px;
+    margin: 290px;
+    margin-left: 350px;
+    margin-top: 140px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    border: 8px solid black;
+    border-radius: 1rem;
+}
+h1{
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background-color: cadetblue;
+    font-size: 40px;
+    font-family: algerian;
+    border: 1px solid black;
+    padding: 5px;
+}
+.tempcalci2{
+    padding: 45px;
+    margin-left: 73px;
+    margin-top: -7px;
+    margin-bottom: 20px;
+    margin-right: 85px;
+    word-spacing: 20px;
+    border: 3px solid black;
+
+}
+.temperature input { 
+    background-color: cadetblue;
+    color: white;
+    align-items: center;
+
+}
+.result input{
+    background-color: cadetblue;
+    color: white;
+    align-items: center;
+}
+.result input select{
+    background-color: cadetblue;
+    color: white;
+    align-items: center;
+}
+.marq
+{
+    background-color: transparent;
+}
+
